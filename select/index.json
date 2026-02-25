@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "春の魔法(Live at SUPERNOVA KAWASAKI,2025/01/11)",
+  "base_artist": "*Luna",
+  "createdAt": "2026-02-25T11:14:41.907581Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春の魔法",
+      "artist": "*Luna feat. ねんね",
+      "has_synced": false,
+      "path": "select/pl_01_春の魔法_Luna_feat._ねんね.txt"
+    }
+  ]
+}
